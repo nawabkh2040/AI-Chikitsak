@@ -1,13 +1,18 @@
-sentence-transformers==2.2.2
-langchain
+sentence-transformers
+langchain==0.0.350
+langchain-community
 flask
-pypdf
+pypdf==3.17.1
 python-dotenv
 pinecone[grpc]
 langchain-pinecone
-langchain_community
 langchain_openai
 langchain_experimental
+openai==1.3.0
+huggingface-hub
+torch>=2.0.0
+transformers
+langsmith
 
 -e .
 

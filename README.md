@@ -23,6 +23,12 @@ conda activate openai-ml
 pip install -r requirements.txt
 ```
 
+### Required Packages
+- langchain==0.1.0
+- pypdf==3.17.1
+- python-dotenv==1.0.0
+- openai==1.3.0
+
 ## Project Description
 [Add your project description here]
 
